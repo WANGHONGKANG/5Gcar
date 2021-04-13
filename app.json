@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/logs/logs",
+    "pages/index/index",
+    "pages/shopcart/shopcart",
+    "pages/my/my"
+  ],
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#3298ff",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "/tab_icon/shouye.png",
+      "selectedIconPath": "/tab_icon/shouye_1.png"
+    },{
+      "pagePath": "pages/logs/logs",
+      "text": "车联网",
+      "iconPath": "/tab_icon/car.png",
+      "selectedIconPath": "/tab_icon/car1.png"
+    },{
+      "pagePath": "pages/my/my",
+      "text": "我的",
+      "iconPath": "/tab_icon/wode.png",
+      "selectedIconPath": "/tab_icon/wode_1.png"
+    }]
+  },
+  "window": {
+    "pageOrientation": "auto",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "5G智能小车",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

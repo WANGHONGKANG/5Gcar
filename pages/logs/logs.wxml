@@ -1,0 +1,8 @@
+<view>虚拟摇杆中心：（{{StartX}},{{StartY}}）</view>
+<view>当前滑动位置：（{{leftLooks}},{{topLooks}}）</view>
+<view class="relative">
+  <!-- 背景图片 -->
+  <image style="width: 200px; height: 200px;" class="pic_background" src="/yaogan/BG.png "></image>
+  <!-- 摇杆图片 -->
+  <image style="width: 80px; height: 80px;left:{{leftLooks}}px;top:{{topLooks}}px;" bindtouchend='ImageReturn' bindtouchmove='ImageTouchMove' bindtap="ImageTouch" class="pic_tou" src="/yaogan/ZX.png"></image>
+</view>

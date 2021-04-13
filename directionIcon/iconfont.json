@@ -1,0 +1,65 @@
+{
+  "id": "2481117",
+  "name": "方向键",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2570143",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "6756183",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6978121",
+      "name": "左箭头",
+      "font_class": "zuojiantou1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "15779811",
+      "name": "右-4",
+      "font_class": "you-4",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "16563795",
+      "name": "上移",
+      "font_class": "cangpeitubiao_shangyi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "18022302",
+      "name": "下",
+      "font_class": "down",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "18327210",
+      "name": "右",
+      "font_class": "totheright-01",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "18397763",
+      "name": "下",
+      "font_class": "down-01",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    }
+  ]
+}

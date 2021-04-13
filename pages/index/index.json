@@ -1,0 +1,31 @@
+{
+  "usingComponents": {},
+  "tabBar": {
+    "position":"top",
+    "color": "#000000",
+    "selectedColor": "#3298ff",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "/tab_icon/shouye.png",
+      "selectedIconPath": "/tab_icon/shouye_1.png"
+    },{
+      "pagePath": "pages/logs/logs",
+      "text": "购物车",
+      "iconPath": "/tab_icon/gouwuche2.png",
+      "selectedIconPath": "/tab_icon/gouwuche.png"
+    }, {
+      "pagePath": "pages/my/my",
+      "text": "我的",
+      "iconPath": "/tab_icon/wode.png",
+      "selectedIconPath": "/tab_icon/wode_1.png"
+    }]
+  },
+  "window": {
+    "pageOrientation": "auto",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "5G智能小车",
+    "navigationBarTextStyle": "black"
+  }
+}
